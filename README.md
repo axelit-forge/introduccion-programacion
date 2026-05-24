@@ -25,3 +25,6 @@ La prioridad actual del portfolio es el mantenimiento del simulador de autómata
 
 ```bash
 gcc archivo.c -o test.out && ./test.out
+
+---
+*Mantenido por [axelit-forge](https://github.com/axelit-forge)*

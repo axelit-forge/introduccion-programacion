@@ -2,7 +2,7 @@
 
 Proyectos y laboratorios desarrollados en C nativo durante el primer año de la carrera (2024). Sirve como registro de mi base en programación estructurada, lógica algorítmica y modularización elemental.
 
-##Contenido actual
+## Contenido actual
 Los trabajos están agrupados por la lógica de las unidades:
 * **Unidades 1 a 3 (Lógica básica):** Estructuras secuenciales, condicionales y bucles.
 * **Unidades 4 y 5 (Arreglos):** Vectores, matrices y uso de la librería `string.h`.

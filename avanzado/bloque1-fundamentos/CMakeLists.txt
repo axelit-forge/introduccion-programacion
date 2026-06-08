@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 99)
 
 
 add_executable(bloque1-fundamentos
-        bitwise_utils.c
         bitwise_utils.h
         main.c
+        aritmetica_utils.h
 )
